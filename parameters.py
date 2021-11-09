@@ -137,6 +137,8 @@ class KnownParameters:
         ),
     )
 
+    TestParameters = GroupParameters(283, 47, 60)
+
 
 # a = KnownParameters.RFC5114_2_2_224
 # print(a.prime)
